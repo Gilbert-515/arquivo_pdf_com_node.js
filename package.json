@@ -1,0 +1,17 @@
+{
+  "name": "criar_arquivo",
+  "version": "1.0.0",
+  "description": "criando arquivo com o node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "not"
+  },
+  "author": "gilbert kemell silva santos",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "html-pdf-node": "^1.0.8",
+    "pdfkit": "^0.13.0"
+  }
+}
